@@ -4,12 +4,12 @@ from twilio.rest import Client
 
 
 OWN_ENDPOINT = "https://api.openweathermap.org/data/2.5/onecall"
-API_KEY = "69f04e4613056b159c2761a9d9e664d2"
-account_sid = "ACa28cefa0f6a1f368f47dc93e279c22c1"
-auth_token = "4bd2624c06975cd4e66f6bd6e8693777"
+API_KEY = "XXXXXXXXXXXXXXXX"
+account_sid = "XXXXXXXXXXXX"
+auth_token = "XXXXXXXXXXXXXX"
 
-twilio_number = "+16693221450"
-target_number = "+919098295555"
+twilio_number = "XXXXXXX"
+target_number = "+91XXXXXXXXXX"
 
 weather_parameter = {
     "lat" : 22.718670 ,
